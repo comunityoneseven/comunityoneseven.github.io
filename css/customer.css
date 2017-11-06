@@ -1,0 +1,121 @@
+.mainmenu ul li a:hover, .mainmenu ul li a.active, .shop-menu ul li a.active{
+    color: #42b46e;
+}
+
+.get, .item button:hover{
+    background: #42b46e;
+}
+
+.control-carousel:hover{
+    color: #42b46e;
+}
+
+a#scrollUp{
+    background: #42b46e;
+}
+
+.carousel-indicators li.active{
+    background: #42b46e;
+}
+
+.left-sidebar h2, .brands_products h2{
+    color: #42b46e;
+}
+
+h2.title{
+    color: #42b46e
+}
+
+.product-overlay{
+    background: #42b46e;
+}
+
+.product-overlay .add-to-cart{
+    color: #42b46e;
+}
+
+.product-overlay .add-to-cart:hover{
+    color: #42b46e;
+}
+
+.add-to-cart:hover{
+    background: #42b46e;
+}
+
+.productinfo h2{
+    color: #42b46e;
+}
+
+.usa:active, .usa:hover{
+    background: none repeat scroll 0 0 #42b46e;
+    border-color: #42b46e;
+}
+
+.shop-menu ul li a:hover{
+    color: #42b46e;
+}
+
+.navbar-nav li ul.sub-menu li a:hover{
+    color: #42b46e;
+}
+
+.recommended-item-control i{
+    background: none repeat scroll 0 0 #42b46e;
+}
+
+.item h1 span, .companyinfo h2  span{
+    color: #42b46e;
+}
+.searchform button{
+    background: #42b46e;
+}
+.searchform  button:hover, .searchform  button:focus{
+    background-color: #42b46e;
+}
+
+.choose ul li a:hover{
+    color: #42b46e;
+}
+
+.overlay-icon{
+    background: #42b46e;
+}
+
+.single-widget ul li a:hover{
+    color: #42b46e;
+}
+
+.dropdown-menu  li  a:hover, .dropdown-menu  li  a:focus{
+    background-color: #42b46e;
+}
+
+#contact-page .form-control:focus, #contact-page .form-control:hover{
+    border-color: #42b46e;
+}
+
+.btn.btn-primary{
+    background: #42b46e;
+}
+.breadcrumbs .breadcrumb li a{
+    background: #42b46e;
+}
+
+.cart_delete a:hover {
+    background: #42b46e;
+}
+#cart_items .cart_info .cart_total_price {
+     background:  #42b46e;
+}
+
+.update, .check_out {
+    background: #42b46e;
+    }
+#cart_items .cart_info .cart_menu{
+    background: #42b46e;
+}
+
+#cart_items .cart_info 
+.table.table-condensed.total-result span{
+     background: #42b46e;
+}
+
