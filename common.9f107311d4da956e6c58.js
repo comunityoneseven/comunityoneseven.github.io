@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{fdyZ:function(n,t,i){"use strict";i.d(t,"a",function(){return r});var r=function(n){return n[n.nuevo=1]="nuevo",n[n.editar=2]="editar",n[n.listar=3]="listar",n}({})}}]);
